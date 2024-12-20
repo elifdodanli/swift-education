@@ -16,5 +16,4 @@ Welcome to **Swift Learning with Elif**, a concise and beginner-friendly guide t
 
 - Browse the [Topics Covered](#topics-covered) section to find the subject you're interested in.
 - Click on the links to access markdown files with detailed explanations and code examples.
-
-  git clone https://github.com/your-username/swift-learning-hub.git
+  
